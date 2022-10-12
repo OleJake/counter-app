@@ -37,3 +37,7 @@ button {
 #save-btn {
     background: rgb(97, 46, 131);
 }
+
+#save-el {
+    background: whitesmoke;
+}
