@@ -41,3 +41,8 @@ button {
 #save-el {
     background: whitesmoke;
 }
+
+button:active {
+    background: black;
+    transform: translateY(2px);
+}
